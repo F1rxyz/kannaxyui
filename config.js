@@ -45,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
+global.sig = 'https://instagram.com/f1rxyz'
 global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
+global.sgc = 'https://chat.whatsapp.com/LNiLEL4yXMz1VkKxXifNGA'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.snh = 'https://youtube.com/c/Firxyz/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
+global.pdana = '6285806459088'
+global.povo = '6285806459088'
+global.pgopay = '6285806459088'
+global.ppulsa = '6285806459088'
+global.ppulsa2 = '6285806459088'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '6285806459088'
+global.nomorown = '6285806459088'
+global.namebot = 'Rixyx-MD'
+global.nameown = 'Firxyz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['6285806459088', 'Firxyz', true],
+  ['628881119185', 'Risxyz', true],
+  ['6285806459088', 'Firxyz', true],
+  ['628881119185', 'Rixyz', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Yui - Chan '
+global.wm = '                「 Rixyz-MD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rixyz-MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'Firxyz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Firxyz`
+global.author = '                「 Rixyz-MD⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -190,8 +190,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickpack = 'Rixyz-MD'
+global.stickauth = `By ©Firxyz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
